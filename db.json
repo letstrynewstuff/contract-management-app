@@ -1,0 +1,334 @@
+{
+  "contracts": [
+    {
+      "id": "1",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Murabaha",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 67,
+      "date": "9/29/2023",
+      "customer": "World Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "2",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Murabaha",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 26,
+      "date": "8/21/2021",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "3",
+      "contractName": "Contract on Banking Product Service to a ...",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 43,
+      "date": "8/19/2023",
+      "customer": "Cartu Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "4",
+      "contractName": "Contract on Banking Product Service to a",
+      "contractType": "Ijarah",
+      "subContractType": "Loan",
+      "validityPeriod": 44,
+      "date": "6/20/2023",
+      "customer": "World Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "5",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Ijarah",
+      "subContractType": "Loan",
+      "validityPeriod": 92,
+      "date": "8/27/2023",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "6",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Ijarah",
+      "subContractType": "Loan",
+      "validityPeriod": 20,
+      "date": "8/7/2021",
+      "customer": "World Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "7",
+      "contractName": "Contract on Banking Product Service to a ...",
+      "contractType": "Ijarah",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 20,
+      "date": "12/16/2020",
+      "customer": "Cartu Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "8",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Murabaha",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 26,
+      "date": "11/29/2022",
+      "customer": "Cartu Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "9",
+      "contractName": "Contract on Banking Product Service to a",
+      "contractType": "Murabaha",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 91,
+      "date": "4/27/2021",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "10",
+      "contractName": "Provision of Technical Assistance by UNESCO under",
+      "contractType": "Ijarah",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 73,
+      "date": "4/1/2024",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "11",
+      "contractName": "Banking Solutions Agreement",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 35,
+      "date": "1/12/2024",
+      "customer": "UNESCO",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "12",
+      "contractName": "Financial Advisory Services",
+      "contractType": "Ijarah",
+      "subContractType": "Advisory",
+      "validityPeriod": 52,
+      "date": "5/22/2022",
+      "customer": "World Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "13",
+      "contractName": "Islamic Loan Agreement",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 40,
+      "date": "3/15/2023",
+      "customer": "IMF",
+      "status": "Declined"
+    },
+    {
+      "id": "14",
+      "contractName": "Post Disbursement Support Agreement",
+      "contractType": "Ijarah",
+      "subContractType": "Support",
+      "validityPeriod": 28,
+      "date": "7/17/2023",
+      "customer": "ADB",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "15",
+      "contractName": "Technical Evaluation Agreement",
+      "contractType": "Murabaha",
+      "subContractType": "Company- Post Disbursement",
+      "validityPeriod": 90,
+      "date": "2/25/2024",
+      "customer": "Cartu Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "16",
+      "contractName": "Infrastructure Financing Agreement",
+      "contractType": "Ijarah",
+      "subContractType": "Loan",
+      "validityPeriod": 66,
+      "date": "10/10/2022",
+      "customer": "World Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "17",
+      "contractName": "Development Fund Allocation Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Grant",
+      "validityPeriod": 77,
+      "date": "11/1/2023",
+      "customer": "UNESCO",
+      "status": "Approved"
+    },
+    {
+      "id": "18",
+      "contractName": "Microfinance Support Agreement",
+      "contractType": "Ijarah",
+      "subContractType": "Support",
+      "validityPeriod": 21,
+      "date": "6/15/2023",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "19",
+      "contractName": "Post Loan Monitoring Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Monitoring",
+      "validityPeriod": 34,
+      "date": "9/13/2022",
+      "customer": "Cartu Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "20",
+      "contractName": "Educational Grant Agreement",
+      "contractType": "Ijarah",
+      "subContractType": "Grant",
+      "validityPeriod": 89,
+      "date": "12/2/2021",
+      "customer": "UNESCO",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "21",
+      "contractName": "Climate Fund Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 58,
+      "date": "4/11/2021",
+      "customer": "World Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "22",
+      "contractName": "Technology Support Service Contract",
+      "contractType": "Ijarah",
+      "subContractType": "Service",
+      "validityPeriod": 39,
+      "date": "8/4/2023",
+      "customer": "Cartu Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "23",
+      "contractName": "Digital Banking Innovation Agreement",
+      "contractType": "Murabaha",
+      "subContractType": "Development",
+      "validityPeriod": 46,
+      "date": "2/8/2022",
+      "customer": "UNESCO",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "24",
+      "contractName": "COVID Relief Fund Distribution Contract",
+      "contractType": "Ijarah",
+      "subContractType": "Grant",
+      "validityPeriod": 61,
+      "date": "5/5/2023",
+      "customer": "World Bank",
+      "status": "Approved"
+    },
+    {
+      "id": "25",
+      "contractName": "Youth Empowerment Initiative Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Support",
+      "validityPeriod": 42,
+      "date": "3/19/2024",
+      "customer": "Cartu Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "26",
+      "contractName": "Contract on Renewable Energy Project",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 36,
+      "date": "1/9/2023",
+      "customer": "World Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "27",
+      "contractName": "Global Partnership Program Contract",
+      "contractType": "Ijarah",
+      "subContractType": "Partnership",
+      "validityPeriod": 33,
+      "date": "9/15/2021",
+      "customer": "UNESCO",
+      "status": "Approved"
+    },
+    {
+      "id": "28",
+      "contractName": "Data Privacy Regulation Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Compliance",
+      "validityPeriod": 22,
+      "date": "6/30/2022",
+      "customer": "Cartu Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "29",
+      "contractName": "Financial Inclusion Contract",
+      "contractType": "Ijarah",
+      "subContractType": "Program",
+      "validityPeriod": 49,
+      "date": "12/18/2022",
+      "customer": "World Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "30",
+      "contractName": "Infrastructure Planning Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Planning",
+      "validityPeriod": 88,
+      "date": "7/6/2021",
+      "customer": "UNESCO",
+      "status": "Approved"
+    },
+    {
+      "id": "31",
+      "contractName": "Contract on E-Governance Implementation",
+      "contractType": "Ijarah",
+      "subContractType": "Development",
+      "validityPeriod": 54,
+      "date": "3/14/2022",
+      "customer": "World Bank",
+      "status": "Declined"
+    },
+    {
+      "id": "32",
+      "contractName": "Cross-border Payment Contract",
+      "contractType": "Murabaha",
+      "subContractType": "Loan",
+      "validityPeriod": 45,
+      "date": "2/1/2023",
+      "customer": "Cartu Bank",
+      "status": "Pending Approval"
+    },
+    {
+      "id": "33",
+      "contractName": "Cybersecurity Enhancement Contract",
+      "contractType": "Ijarah",
+      "subContractType": "Service",
+      "validityPeriod": 59,
+      "date": "10/5/2023",
+      "customer": "UNESCO",
+      "status": "Approved"
+    }
+  ]
+}
